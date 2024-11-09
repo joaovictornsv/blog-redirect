@@ -7,10 +7,10 @@ app.get('/', (req, res) => {
 });
 
 const posts = {
-  "writing-the-skill-that-will-boost-your-career": "http://simp.ly/p/GFXrGP"
-  "how-not-to-make-mistakes-twice": "http://simp.ly/p/SY1zz7"
-  "event-loop-basics-this-time-you-understand": "http://simp.ly/p/MY9R3L"
-  "what-is-valuable-for-you": "http://simp.ly/p/L6rwV0"
+  "writing-the-skill-that-will-boost-your-career": "http://simp.ly/p/GFXrGP",
+  "how-not-to-make-mistakes-twice": "http://simp.ly/p/SY1zz7",
+  "event-loop-basics-this-time-you-understand": "http://simp.ly/p/MY9R3L",
+  "what-is-valuable-for-you": "http://simp.ly/p/L6rwV0",
   "techocalypse-now-extreme-hypotheticals-for-developers": "http://simp.ly/p/cysN0B"
 }
 
