@@ -3,7 +3,7 @@ import express from 'express';
 const app = express();
 
 app.get('/', (req, res) => {
-  res.redirect('http://simp.ly/p/C9jSk5');
+  res.redirect('https://simp.ly/p/C9jSk5');
 });
 
 const posts = {
