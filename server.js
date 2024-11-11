@@ -12,7 +12,8 @@ const posts = {
   "event-loop-basics-this-time-you-understand": "https://simp.ly/p/MY9R3L",
   "what-is-valuable-for-you": "https://simp.ly/p/L6rwV0",
   "techocalypse-now-extreme-hypotheticals-for-developers": "https://simp.ly/p/cysN0B",
-  "bun-node-js-a-load-testing-experiment": "https://docs.quave.cloud/blog/2024-03-04-bun-node-js-a-load-testing-experiment"
+  "bun-node-js-a-load-testing-experiment": "https://docs.quave.cloud/blog/2024-03-04-bun-node-js-a-load-testing-experiment",
+  "208-67-222-123": "http://simp.ly/p/8w9rTw"
 }
 
 Object.keys(posts).forEach(key => {
